@@ -13,5 +13,14 @@ BoardMember.prototype.approve = function() {
 }
 
 BoardMember.prototype.doCharity = function() {
- return "No, I must disagree" 
+ return "I like to help people." 
 }
+
+BoardMember.prototype. = function() {
+ return "You can do that!" 
+}
+
+BoardMember.prototype.doCharity = function() {
+ return "I like to help people." 
+}
+
