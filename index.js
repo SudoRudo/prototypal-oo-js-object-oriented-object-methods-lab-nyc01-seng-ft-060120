@@ -5,5 +5,5 @@ function BoardMember(name, homestate, training){
 }
 
 BoardMember.prototype.veto = function() {
- return "" 
+ return "No, I must disagree" 
 }
